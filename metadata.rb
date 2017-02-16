@@ -10,5 +10,5 @@ supports 'centos', '>= 6.4'
 supports 'redhat', '>= 6.4'
 supports 'ubuntu', '>= 12.04'
 
-depends 'ssl_certificate', '~> 1.11'
+depends 'ssl_certificate', '~> 2.0'
 depends 'consul', '~> 2.3'
